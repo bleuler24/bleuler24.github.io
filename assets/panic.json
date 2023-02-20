@@ -1,0 +1,227 @@
+[
+    {
+        "label": "Вы испытываете ощущение учащенного сердцебиения?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас бывает дрожь в теле?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вы можете расслабиться?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": false
+            },
+            {
+                "value": "Нет",
+                "correct": true
+            }
+        ]
+    },
+
+
+    {
+        "label": "У Вас возникает страх, что произойдет нечто ужасное?",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас бывает головокружение или «туман в голове»?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    } ,
+
+    {
+        "label": "Вы боитесь, что можете упасть в обморок?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вас беспокоит ощущение удушья, нехватки воздуха?",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас бывают проблемы с пищеварительной системой?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вы боитесь потерять контроль?",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вы боитесь, что Вам станет плохо?",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас возникает ощущение «кома в горле»?",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вы испытываете тошноту?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас возникают трудности с концентрацией?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "У Вас возникают ощущения онемения/покалывания в теле и конечностях?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    },
+
+    {
+        "label": "Вас бросает то в жар, то в холод?",
+        "general" : false,
+        "choices": [
+            {
+                "value": "Да",
+                "correct": true
+            },
+            {
+                "value": "Нет",
+                "correct": false
+            }
+        ]
+    }
+]

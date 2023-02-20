@@ -1,0 +1,16 @@
+[
+    {
+        "label": "Вопрос 1",
+        "general" : true,
+        "choices": [
+            {
+                "value": "Yes",
+                "correct": true
+            },
+            {
+                "value": "No",
+                "correct": false
+            }
+        ]
+    }
+]
